@@ -1,0 +1,22 @@
+{
+    "DeviceIdSuffix":"0_",
+    
+    "server":{
+        "Ip":"00.00.00.00",
+
+        "ServerIp_localhost": "00.00.00.00",
+        "ServerIp_aliyun": "00.00.00.00",
+
+        "ServerPort": 7350,
+        "ServerKey": "key_tapir",
+
+        "RoomName": "box_13"
+    },
+
+    "debug":{
+        "MaxLogLineNum":7,
+        "isOpenUILog":true
+    }
+
+    
+}
